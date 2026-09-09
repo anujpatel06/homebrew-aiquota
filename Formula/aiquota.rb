@@ -3,8 +3,8 @@ class Aiquota < Formula
 
   desc "See how much of every AI subscription you've used, in one place"
   homepage "https://github.com/anujpatel06/aiquota"
-  url "https://files.pythonhosted.org/packages/ea/5a/018100c0cfa923e4b7d451691c0a0f7dc906c0da8693881cd2db1dacbe7b/aiquota-0.5.0.tar.gz"
-  sha256 "fc734c63e2bd965613eaf264c4240a98803e7de2ab0dd558bd8862a9139f9d96"
+  url "https://files.pythonhosted.org/packages/07/3b/17e0b23d1125da2b3c1b737ebb806bfc61cb788c287cd5c074da1c4770b1/aiquota-0.5.1.tar.gz"
+  sha256 "f6f853e3394027586ff2c755f943b29af86efaf1593e5f832baa143d054d2393"
   license "MIT"
 
   depends_on "python@3.12"
